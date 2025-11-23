@@ -1,0 +1,4 @@
+MONGODB_URL='mongodb+srv://kanishkatharuka500:k%4012345@cluster0.8zcpv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+CLOUDINARY_NAME = 'dipxcbdgu'
+CLOUDINARY_API_KEY= '163482116186237'
+CLOUDINARY_SECRET_KEY='y0ShEdB2ve7w2vW6-PAjHJ5RQKg'
